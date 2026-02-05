@@ -25,9 +25,10 @@ This repo is meant to be practical, not over-engineered.
 
 ---
 
+```md
 ## Project Structure
-```
 
+```text
 PLAYWRIGHT_DEMO/
 │
 ├── methods/
@@ -52,8 +53,6 @@ PLAYWRIGHT_DEMO/
 ├── playwright.config.js
 ├── package.json
 └── README.md
-
-````
 
 ---
 
