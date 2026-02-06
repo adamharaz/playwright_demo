@@ -1,8 +1,4 @@
 # playwright_demo
-Got it. I’ll give you a **full, copy-paste ready README**, and I’ll explicitly include the **exact commands you are already using** in this project, no fluff, no invented tooling.
-
-You can drop this straight into `README.md`.
-
 ---
 
 ```md
