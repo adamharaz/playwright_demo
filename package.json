@@ -19,6 +19,9 @@
     "@playwright/test": "^1.57.0"
   },
   "dependencies": {
-    "allure-playwright": "^3.4.5"
+    "allure-playwright": "^3.4.5",
+    "chai": "^6.2.2",
+    "dotenv": "^17.2.3",
+    "webdriverio": "^9.23.3"
   }
 }

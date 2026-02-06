@@ -1,5 +1,16 @@
 node_modules/
 .env
+
+# Playwright
+playwright-report/
+test-results/
+
+# Allure
 allure-results/
+allure-report/
+
+# Custom reports
 reports/
+
+# OS noise
 .DS_Store
